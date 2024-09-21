@@ -1,3 +1,6 @@
 [submodule "CLI_TaskTracker"]
 	path = CLI_TaskTracker
 	url = https://github.com/kashan16/CLI_TaskTracker.git
+[submodule "ExpenseTrackerAPI"]
+	path = ExpenseTrackerAPI
+	url = https://github.com/kashan16/ExpenseTrackerAPI.git
