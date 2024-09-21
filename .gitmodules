@@ -1,0 +1,3 @@
+[submodule "CLI_TaskTracker"]
+	path = CLI_TaskTracker
+	url = https://github.com/kashan16/CLI_TaskTracker.git
